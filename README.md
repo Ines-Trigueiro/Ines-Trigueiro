@@ -7,7 +7,7 @@
 
 - **🚀 Positions:**
     - I currently serve as the **AI Engineer** at **[Cogito NTNU](https://www.cogito-ntnu.no/)** Explored practical and ethical applications of AI, including RAG systems with large language models in regulatory contexts.
-    - **Previously**: AI and ML Engineer at [Deloite](https://www.deloitte.com) in colaboration with **Google** and **Luz Saúde**.
+    - **Previously**: AI and ML Engineer at [Deloitte.](https://www.deloitte.com) in colaboration with **Google** and **Luz Saúde**.
 
 - **🏦 Education:**
     - **Graduate Student & Researcher** Instituto Superior Técnico - University of Lisbon and Norwegian University of Science and Technology (NTNU)
@@ -21,11 +21,16 @@
 <div align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"           width="75" height="75"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"     width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="python"     width="65" height="65"/>
       <img src="https://github.com/Ines-Trigueiro/Ines-Trigueiro/assets/89105607/5dcbef68-921d-4897-a5cd-67c3ce2f171b" alt="openai" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="65" height="65"/>
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/fastapi-icon.svg" alt="gcp" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="gcp" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"      width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"  width="65" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="mongodb"  width="65" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="65" height="65"/>
 
 </div>
 
