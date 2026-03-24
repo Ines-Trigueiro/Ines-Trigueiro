@@ -1,5 +1,5 @@
 <h1> Hello World, I am Inês Trigueiro!
-<img src="[assets/hand-waving.gif]" width="45" align="center"/> </h1> 
+<img src="assets/hand-waving.gif" width="45" align="center"/> </h1> 
 
 <div align="center">
     <img src="assets/programmerProggingDarkMode.gif">
