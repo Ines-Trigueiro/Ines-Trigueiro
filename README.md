@@ -2,7 +2,8 @@
 <img src="assets/hand-waving.gif" width="45" align="center"/> </h1> 
 
 <div align="center">
-    <img src="[assets/programmerProggingDarkMode.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Fbnikitha05&opi=89978449)">
+    <img src="[[assets/programmerProggingDarkMode.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Fbnikitha05&opi=89978449)](https://user-images.githubusercontent.com/46911773/157439202-122d4cfd-0c10-4b53-8038-6685855ac1ab.gif)">
+    
 </div>
 
 - **🚀 Positions:**
